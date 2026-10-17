@@ -3,7 +3,7 @@
 ## Identitas Diri 
 | Nama Lengkap | NIM | Program Studi | Cluster | 
 |--------------|-----|---------------|---------| 
-|Zakwan Fakhry Al Fakeh|265150200111004 Teknik Informatika|Cluster 2 | 
+|Zakwan Fakhry Al Fakeh|265150200111004 | Teknik Informatika|Cluster 2 | 
 
 ## Kesan Pesan INTRIVIA Sejauh Ini 
  Selama mengikuti INTRIVIA 2026, saya mendapatkan banyak insight dalam hal akademik maupun non-akademik. Dari INTRIVIA juga saya mendapat banyak kenalan, kehidupan serta program pada kampus, serta pengenalan prodi yang bisa memberi pandangan saya kedepannya.
